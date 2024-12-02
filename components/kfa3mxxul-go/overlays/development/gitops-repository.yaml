@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kfa3mxxul-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/kfa3mxxul-go-gitops
